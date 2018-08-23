@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/itcast-tools-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/36527/eclipse-workspace/Customer_Management_System/usrlib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
